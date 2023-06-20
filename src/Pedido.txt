@@ -1,0 +1,8 @@
+Nome: Cleissi               
+Sobrenome: Teles                 
+Telefone: (51)51615-1456
+Produto: Bolo
+Massa: Chocolate
+Recheio: Nutella
+Quantidade: 3
+Valor Final: R$ 30.0
